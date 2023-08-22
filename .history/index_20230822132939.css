@@ -50,7 +50,6 @@
 }
 .texts .left p {
     margin-top: 31px;
-    margin-bottom: 29px;
 
     color: var(--text-light-gray, rgba(255, 255, 255, 0.64));
     font-feature-settings:
@@ -65,6 +64,7 @@
     line-height: 32px; /* 200% */
 }
 .texts .left a {
+    margin-top: 29px;
     color: var(--text-light, #fff);
     font-feature-settings:
         "clig" off,
